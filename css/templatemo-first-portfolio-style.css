@@ -516,7 +516,7 @@ strong {
   left: 0;
   margin: auto;
   pointer-events: none;
-  background-image: url("./images/thumbs-up-removebg-preview.png");
+  background-image: url('/images/thumbs-up-removebg-preview.png');
   background-size: cover;
 }
 
