@@ -516,14 +516,18 @@ strong {
   left: 0;
   margin: auto;
   pointer-events: none;
+  background-image: url("../images/thumbs-up-removebg-preview.png");
+  background-size: cover;
 }
 
 .hero-image {
   position: absolute;
   z-index: 22;
   top: 0;
-  width: 100%;
-  min-width: 550px;
+  left:100px;
+  width: 50%;
+  min-width: 300px;
+  max-width: 500px;
 }
 
 .hero svg {
